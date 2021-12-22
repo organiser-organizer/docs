@@ -1,8 +1,4 @@
----
-description: Organising an organization
----
-
-# docs
+# Organizing and organisation
 
 This repository aims to be a space to review and suggest changes to the organization
 
