@@ -1,4 +1,4 @@
-# Organizing and organisation
+# Organizing an organisation
 
 This repository aims to be a space to review and suggest changes to the organization
 
